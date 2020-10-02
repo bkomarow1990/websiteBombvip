@@ -1,0 +1,233 @@
+
+
+@font-face {
+// название шрифта(чтобы не запутаться лучше указать название папки со шрифтом) 
+font-family: "Helvetica"; 
+// адрес шрифта и тип 
+src: url("../fonts/Helvetica.otf") format("truetype"); 
+font-style: normal; 
+font-weight: normal; 
+}  
+header {
+	
+	width: 1170px;
+	font-family: 'Poiret One', cursive;
+	margin: 0 auto;
+	padding: 0px;
+}
+body {
+	margin: 0px;
+}
+.bg{background: black;
+	color: white;
+	height: 100px;
+	border:solid 0.1px black;
+border-bottom: 1px solid white}
+
+header li {
+	display: inline-block
+	;
+	text-shadow: 1px 1px 2px black, 0 0 1em red;
+
+padding: 0px; 
+	text-align: center;
+	padding: 20px;
+	margin-right: 200px; 
+	float: right;
+font-family: 'Poiret One', cursive;
+font-size: 24px;}
+
+
+
+main {
+	background-image:  url(../images/1.jpg) ;
+	background-position: center;
+	 background-repeat: no-repeat;
+	 background-size: cover;
+
+}
+
+
+body {
+	
+	
+}
+
+.button {
+	text-shadow: 1px 1px 2px black;
+	box-shadow: 1px 1px 1px black;
+	width: 200px;
+	padding: 20px;
+	text-align: center;
+	height: 25px;
+	margin-right: 45%;
+	
+	float: right;
+	color: white;
+	font-size: 24px;
+	background-color: #1d74d1;
+	border-radius: 20px;
+
+}
+
+.info {
+	color: white;
+	text-align: center;
+	font-size: 24px;
+	padding: 100px 100px 0px 100px;
+	text-shadow:  2px 2px black;
+}
+/* .bgImg{width:100%;
+		position:fixed;
+		top:100px;
+		z-index: -100;
+		opacity:0.8;} */
+
+		a{
+			text-decoration: none;
+		}
+
+		.block1 a{
+			color: white;
+		}
+
+
+
+.jyra {
+	font-family: 'Poiret One';
+	margin-top:150px;
+	margin-left: 200px; 
+	height: 200px;
+	width: 1000px;
+
+}
+
+.block2 img {
+
+}
+
+.jyra h2 {
+	float: right;
+	margin-right: 63%;
+	color: white;
+	text-align: center;
+	text-shadow:  2px 2px black;
+}
+.jyra p {
+	float: right;
+	text-align: center;
+	color: white;
+	text-shadow:  2px 2px black;
+margin-right: 38%;
+}
+
+.jyra img {
+	width: 200px;
+	height: 200px;
+	float: left;
+}
+
+
+.block1 {
+	font-family: 'Poiret One', cursive;
+}
+
+
+.info {
+	font-family: 'Poiret One', cursive;
+}
+
+
+.bogdan h2 {
+	
+	color: white;
+
+	text-shadow:  2px 2px black;
+}
+.bogdan p {
+	
+	color: white;
+	text-shadow:  2px 2px black;
+}
+
+.bogdan img {
+	width: 200px;
+	height: 200px;
+	float: left;
+}
+
+.bogdan {
+	font-family: 'Poiret One';
+margin-bottom: 0;
+margin-left: 200px;
+
+}
+
+.illia h2 {
+	
+	color: white;
+
+	text-shadow:  2px 2px black;
+}
+.illia p {
+	
+	color: white;
+	text-shadow:  2px 2px black;
+}
+
+.illia img {
+	width: 200px;
+	height: 200px;
+	float: left;
+}
+
+.illia {
+	font-family: 'Poiret One';
+margin-top: 160px;
+margin-left: 200px;
+
+}
+
+.end {
+		font-family: 'Montserrat';
+	text-align: center;
+	margin-top: 150px;
+	width: 100%;
+	height: 25px;
+	background-color: white;
+}
+
+
+.endd {
+	width: 200px;
+	height: 200px;
+}
+
+a {
+	color: white;
+}
+
+.main {
+	background-image:  url(../images/2.jpg) ;
+    background-attachment: fixed, fixed;
+	 background-position: 50% 50%!important;
+	 background-repeat: no-repeat;
+	 background-size: cover;
+	 font-family: 'Helvetica';
+	 width: 100%;
+	 height: 600px;
+
+}
+
+.about {
+	margin: 0px;
+background: black;
+color: white;
+	font-family: 'Helvetica';
+	height: 800px;
+	text-align: center;
+}
+
+.about h2 {
+	margin: 0px;
+}
